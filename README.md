@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm João
-- 🔭 I’m currently working at FCUP
+- 🔭 I’m currently studying at FCUP
 - You can visit my website [here](https://micoman987.github.io/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=micoman987&show_icons=true&theme=merko&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
